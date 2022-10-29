@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Susan
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO
